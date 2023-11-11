@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/gyanendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gyanendra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gyanendra-mani-446059238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyanendra-mani" height="30" width="40" /></a>
-<a href="https://instagram.com/mani_gyanendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_gyanendra" height="30" width="40" /></a>
+<a href="https://instagram.com/mani_gyanendra?utm_source=qr&igshid=OGIxMTE0OTdkZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_gyanendra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gyanendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gyanendra" height="30" width="40" /></a>
 </p>
 
