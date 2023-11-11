@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendra9984&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra9984" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react & Node.js**
 
 - 💬 Ask me about **html,css,js**
 
