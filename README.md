@@ -1,12 +1,12 @@
 <img align="center" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYj-wuZwP084j7zubLlhrojCBXMIn7J6Q75qsOvxBUINO2zFC-sGrSGFyH7KC5HtJ5cw0&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Gyanendra Mani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">full stack-web developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendra9984&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendra9984" /> </p>
 
-- 🌱 I’m currently learning **react & Node.js**
+- 🌱 I’m currently learning **React Native and Django**
 
-- 💬 Ask me about **html,css,js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mani15102002@gmail.com**
 
